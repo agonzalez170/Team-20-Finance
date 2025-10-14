@@ -28,5 +28,5 @@ The following deliverables must be submitted:
    - Abstract (Include the project dataset link)
    - Expected Contributions.
 Ruben: I will be working on analyzing code and production visualizations. I will also help building the streamlit application.
-
-Haoqi: I will be responsible for finding, evaluating, and justifying the dataset used in our project. This includes researching available datasets that fit our topic, verifying their credibility and relevance, and explaining why the chosen dataset is appropriate for analysis. I will also help with building the streamlit application. 
+Emily: I will be working on writing analysis code and producing visualizations
+Jeremiah: I will be working on data cleaning and preprocessing. I will also help with building the streamlit application.
